@@ -5,6 +5,6 @@ Orginal author: Paweł Leja
 
 Fork: Vojak
 
-Do dodania:
-- przetłumaczenie kompendium z mocami
-- pomniejsze słowa nieprzetłumaczone
+To add:
+- translate Basic Powers compendium
+- small changes to words
